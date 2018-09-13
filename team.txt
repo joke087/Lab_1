@@ -1,13 +1,8 @@
-<<<<<<< HEAD
+
 
 Jonathon Oke
 =======
-Ziming Wang
-
-=======
-<<<<<<< HEAD
 XINHAO ZHANG (Jeremy)
 =======
 Ziming Wang
->>>>>>> 432a4aee89b0739705b3d377bf64cfef294ab972
->>>>>>> 875725c557cb42b270a232d93d0581d9c23c1f17
+
