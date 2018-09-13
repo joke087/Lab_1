@@ -1,5 +1,13 @@
 Janie Amyot
 Jonathon Oke
 Ziming Wang
+
+
+Jonathon Oke
+=======
+>>>>>>> 6d4285d6a96fa336f932863d3e58de40d3e4b25f
 XINHAO ZHANG (Jeremy)
 Ziming Wang
+<<<<<<< HEAD
+=======
+
